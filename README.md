@@ -6,14 +6,7 @@ IT infrastructure, network, security, and MSP experience combined with current r
 
 ## Current Focus
 
-- Enterprise AI Capability
-- Agentic AI Governance
-- Human–AI Collaboration
-- Risk-Adaptive Delegation
-- AIOps / Network Automation
-- Digital Trust
-- AI × Intellectual Property
-- Longitudinal Digital Trace Analytics
+**Enterprise AI Capability · Agentic AI Governance · Human–AI Collaboration · AIOps · Digital Trace Analytics**
 
 ## Featured Projects
 
@@ -47,19 +40,13 @@ Includes API handling, rate-limit-aware collection, metadata enrichment, and rep
 
 ### [E2E Security AIOps](https://github.com/komy1122/e2e-security-aiops)
 
-Research and prototype project for integrating heterogeneous security and operational logs from sources such as WAF, DLP, firewall, and application systems.
-
-Research direction: Security / Operations Logs → Normalization → Event Correlation → Anomaly Detection → Incident Context → AIOps.
+Early-stage research/prototype exploring heterogeneous security and operational event normalization, correlation, anomaly analysis, and evidence-preserving AIOps.
 
 ---
 
 ### [AIOps Dataset Reference](https://github.com/komy1122/Aiops-Dataset)
 
-Research reference repository for AIOps datasets and fault-analysis experiments.
-
-Focus areas include logs, metrics, traces, fault injection, root-cause analysis, and anomaly detection.
-
-Dataset provenance and licensing should always be checked before reuse.
+Reference/index for an external multimodal AIOps dataset used in fault-analysis research. Original authorship and licensing are explicitly separated from my own work and must be verified before reuse.
 
 ---
 
