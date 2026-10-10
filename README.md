@@ -32,9 +32,9 @@ Research principle:
 
 ### [NeurIPS 2025 Metadata Pipeline](https://github.com/komy1122/neurips2025_papers)
 
-Reproducible research-data pipeline connecting OpenReview → arXiv → Semantic Scholar → research-ready metadata.
+External reference fork of [prakashkagitha/neurips2025_papers](https://github.com/prakashkagitha/neurips2025_papers), connecting OpenReview → arXiv → Semantic Scholar metadata. The upstream implementation and default outputs belong to their original author; my default branch currently matches upstream (reviewed 2026-10-10).
 
-Includes API handling, rate-limit-aware collection, metadata enrichment, and reproducible outputs.
+Used as a research-data engineering reference. This listing does not claim that I implemented or reproduced the pipeline.
 
 ---
 
@@ -52,7 +52,7 @@ Reference/index for an external multimodal AIOps dataset used in fault-analysis 
 
 ### [Statistics with R](https://github.com/komy1122/Statistics-R)
 
-Statistical methods practice and research-methods portfolio using R.
+Learning fork of [kykwahk/Statistics-R](https://github.com/kykwahk/Statistics-R), the textbook repository by Ki-Young Kwahk. The textbook code remains attributed to its author; my additions are personal exercises and study/method mapping notes.
 
 Topics include hypothesis testing, ANOVA, regression, mediation/moderation, logistic regression, PCA/factor analysis, time-series analysis, survival analysis, structural equation modeling, and bootstrap/nonparametric methods.
 
@@ -127,4 +127,4 @@ I am interested in collaboration around:
 
 ---
 
-_Last updated: 2026-09-27_
+_Last updated: 2026-10-10 — fork provenance reviewed_
