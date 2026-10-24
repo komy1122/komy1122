@@ -2,11 +2,21 @@
 
 **Enterprise AI · AIOps · AI Governance · Human–AI Collaboration**
 
-IT infrastructure, network, security, and MSP experience combined with current research on enterprise AI capability, AI governance, digital trace analytics, and human–AI collaboration.
+Enterprise IT, MSP, network, cybersecurity, B2B consulting, and technical-sales experience combined with current research on enterprise AI capability, AI governance, AIOps, digital trace analytics, and human–AI collaboration.
 
 ## Current Focus
 
 **Enterprise AI Capability · Agentic AI Governance · Human–AI Collaboration · AIOps · Digital Trace Analytics**
+
+## Professional & Academic Context
+
+- **Professional foundation:** Enterprise IT · MSP · Enterprise Network · Cybersecurity · B2B Consulting · Technical Sales
+- **Career progression:** Consumer Research / Marketing → LegalTech → Financial Service Operations → Cybersecurity Solution Sales → Enterprise Network / MSP Consulting
+- **Graduate study:** Business IT / AIX and Business & Finance MBA, with an emphasis on Information Systems, analytics, digital strategy, and enterprise decision making
+- **Technical study:** Information systems & communications engineering and cybersecurity
+- **Research direction:** Human–AI Collaboration · AI Governance · Explainable AI · Agentic AI · Enterprise AI · AIOps
+
+This profile is a public research/engineering layer. Verified career and education facts are maintained separately from repository claims, and private employment/customer evidence is not published here.
 
 ## Featured Projects
 
@@ -111,7 +121,7 @@ This includes explicit attention to provenance, source coverage, entity resoluti
 
 ## Current Development Path
 
-IT Infrastructure / Network / Security → AIOps → Research Data Engineering → Enterprise AI Capability → AI Governance → Human–AI Collaboration
+Consumer Research / Marketing → LegalTech / Service Operations → Cybersecurity Solution Sales → Enterprise Network / MSP Consulting → AIOps / Research Data Engineering → Enterprise AI Capability → AI Governance → Human–AI Collaboration
 
 ## Collaboration Interests
 
@@ -127,4 +137,4 @@ I am interested in collaboration around:
 
 ---
 
-_Last updated: 2026-10-10 — fork provenance reviewed_
+_Last updated: 2026-10-24 — professional, academic, and research identity cross-checked_
